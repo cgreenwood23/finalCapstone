@@ -5,12 +5,12 @@
 ## Table of Contents
 | Section |
 |-------- |
-| [Introduction](##Introduction) |
-| [Strengths & Limitations](##Strengths_and_Limitation_of_the_SpaCy_Module) |
-| [Example Output](##Example_Output) |
-| [Run Locally](##Run_Locally) |
-| [Usage](##Usage) |
-| [Licence](##Licence) |
+| [Introduction](#Introduction) |
+| [Strengths & Limitations](#Strengths-and-Limitation-of-the-SpaCy-Module) |
+| [Example Output](#Example-Output) |
+| [Run Locally](#Run-Locally) |
+| [Usage](#Usage) |
+| [Licence](#Licence) |
 
 ## Introduction
 This is a Basic Natural Language Process Model using SpaCy Module. It is analysing reviews from Amazon customers about a product they have purchased (such as Kindle, Amazon Fire Stick etc). Each column provides basic product information, rating, review text, and more, for each product. These reviews were collected by Datafiniti's Product Database and the dataset was downloaded from Kaggle in CSV format (https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products).
