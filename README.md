@@ -15,7 +15,7 @@
 ## Introduction
 This is a Basic Natural Language Process Model using SpaCy Module. It is analysing reviews from Amazon customers about a product they have purchased (such as Kindle, Amazon Fire Stick etc). Each column provides basic product information, rating, review text, and more, for each product. These reviews were collected by Datafiniti's Product Database and the dataset was downloaded from Kaggle in CSV format (https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products).
 
-Semantic analysis of Amazon reviews can be helpful in gauging public opinion of products, and identifying trends (e.g.: if certain product variants recieve better reviews). This project performs exploratory analysis on the Amazon review dataset, demonstrating how a more in-depth study might unlock the data and trends embedded in natural language product reviews, in order to make recommendations on why products are popular.
+Semantic analysis of Amazon reviews can be helpful in gauging public opinion of products, and identifying trends (e.g.: if certain product variants receive better reviews). This project performs exploratory analysis on the Amazon review dataset, demonstrating how a more in-depth study might unlock the data and trends embedded in natural language product reviews, in order to make recommendations on why products are popular.
 
 ## Strengths and Limitation of the SpaCy Module:
 ### Strengths:
