@@ -15,7 +15,7 @@
 ## Introduction
 This is a Basic Natural Language Process Model using SpaCy Module. It is analysing reviews from Amazon customers about a product they have purchased (such as Kindle, Amazon Fire Stick etc). Each column provides basic product information, rating, review text, and more, for each product. These reviews were collected by Datafiniti's Product Database and the dataset was downloaded from Kaggle in CSV format (https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products).
 
-Analysing Amazon reviews using NLP is useful to efficiently get a sense of whether reviewing surrounding a particular product are positive or negative. 
+Semantic analysis of Amazon reviews can be helpful in gauging public opinion of products, and identifying trends (e.g.: if certain product variants recieve better reviews). This project performs exploratory analysis on the Amazon review dataset, demonstrating how a more in-depth study might unlock the data and trends embedded in natural language product reviews, in order to make recommendations on why products are popular.
 
 ## Strengths and Limitation of the SpaCy Module:
 ### Strengths:
@@ -36,7 +36,10 @@ Analysing Amazon reviews using NLP is useful to efficiently get a sense of wheth
 
 
 ## Example Output
-Bar plot shows all of the reviewed Amazon products against their average sentiment analysis score. 
+The output bar plot shows all of the reviewed Amazon products against their average sentiment analysis score. 
+
+By calculating the average sentiment score for each product and plotted them against each other, we can show that the ‘All-New Fire HD 8 Tablet’ has the highest average sentiment analysis score out of all the products in the dataset and was the most positively reviewed, whereas the ‘Amazon Fire TV with 4K Ultra HD and Alexa Voice Remote’ has the lowest average sentiment analysis score and was the most negatively reviewed. 
+
 ![Average Sentiment Analysis per Product](https://github.com/cgreenwood23/finalCapstone/assets/153872154/aef94e25-2954-4d93-8cbb-1d59a0af4794)
 
 
